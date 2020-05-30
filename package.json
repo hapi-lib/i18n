@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/hapi-lib/i18n#readme",
   "dependencies": {
+    "@hapi/boom": "^9.1.0",
     "@hapi/joi": "^17.1.1",
     "i18next": "^19.4.5"
   }
